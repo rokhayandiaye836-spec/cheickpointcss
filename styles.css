@@ -1,8 +1,8 @@
 body{
-    font-family: roboto; sans-serif
+    font-family: 'Roboto'sans-serif ;
+background-color:rgb(108, 108, 206) ;
 }
-
-nav ul {
+av ul {
     display: flex;
     flex-direction: row;
     list-style: none;
