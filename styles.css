@@ -1,10 +1,8 @@
 body{
     font-family: 'Roboto'sans-serif ;
-background-color:rgb(108, 108, 206) ;
 }
 av ul {
     display: flex;
-    flex-direction: row;
     list-style: none;
     gap: 20PX;
 }
@@ -13,8 +11,4 @@ body{
 }
 h1{
     color: rgb(84, 175, 175);
-}
-.div {
-padding-top: 40px;
-padding-right: 50px;
 }
